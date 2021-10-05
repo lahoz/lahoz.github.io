@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## How long can you hold your breath?
 
 You can use the [editor on GitHub](https://github.com/lahoz/lahoz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
