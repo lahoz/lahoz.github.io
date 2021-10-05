@@ -1,6 +1,6 @@
 ## How long can you hold your breath?
 
-<div align="left"><img src="Space-Brothers-2.png" width="200" height="200" alt="description-of-image" /></div>
+<div align="left"><img src="Space-Brothers-2-.png" width="200" height="200" alt="description-of-image" /></div>
 
 You can use the [editor on GitHub](https://github.com/lahoz/lahoz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
